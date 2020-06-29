@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-demo-profile/static/css/main.bd26f739.chunk.css",
+    "main.js": "/react-demo-profile/static/js/main.bc5157fc.chunk.js",
+    "main.js.map": "/react-demo-profile/static/js/main.bc5157fc.chunk.js.map",
+    "runtime-main.js": "/react-demo-profile/static/js/runtime-main.87f12639.js",
+    "runtime-main.js.map": "/react-demo-profile/static/js/runtime-main.87f12639.js.map",
+    "static/css/2.e4346227.chunk.css": "/react-demo-profile/static/css/2.e4346227.chunk.css",
+    "static/js/2.7109ddb5.chunk.js": "/react-demo-profile/static/js/2.7109ddb5.chunk.js",
+    "static/js/2.7109ddb5.chunk.js.map": "/react-demo-profile/static/js/2.7109ddb5.chunk.js.map",
+    "index.html": "/react-demo-profile/index.html",
+    "precache-manifest.6c694ec94685ba2654c73d2b079d99d3.js": "/react-demo-profile/precache-manifest.6c694ec94685ba2654c73d2b079d99d3.js",
+    "service-worker.js": "/react-demo-profile/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/react-demo-profile/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.bd26f739.chunk.css.map": "/react-demo-profile/static/css/main.bd26f739.chunk.css.map",
+    "static/js/2.7109ddb5.chunk.js.LICENSE.txt": "/react-demo-profile/static/js/2.7109ddb5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-demo-profile/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87f12639.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.7109ddb5.chunk.js",
+    "static/css/main.bd26f739.chunk.css",
+    "static/js/main.bc5157fc.chunk.js"
+  ]
+}
